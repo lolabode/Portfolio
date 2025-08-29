@@ -1,10 +1,10 @@
-# 🚀 Ruby's Portfolio Deployment Guide
+# 🚀 Felicia's Portfolio Deployment Guide
 
 ## Current Status: Ready for GitHub Pages Activation
 
 ### ✅ What's Already Done:
 - ✅ Portfolio website built with Next.js and responsive design
-- ✅ GitHub repository created: `rubytechme/portfolio`
+- ✅ GitHub repository created: `lolabode/portfolio
 - ✅ GitHub Actions workflow configured for automatic deployment
 - ✅ Static export configuration set up
 - ✅ All code committed and pushed to GitHub
@@ -13,7 +13,7 @@
 
 **IMPORTANT**: You must manually enable GitHub Pages in your repository settings:
 
-1. **Visit**: https://github.com/rubytechme/portfolio
+1. **Visit**: https://github.com/lolabode
 2. **Click**: "Settings" tab (at the top)
 3. **Navigate**: Click "Pages" in the left sidebar
 4. **Configure Source**: 
@@ -29,7 +29,7 @@
    - It should complete successfully within 2-3 minutes
 
 2. **Access Your Live Portfolio**:
-   - URL: https://rubytechme.github.io/portfolio/
+   - URL: https://lolabode.github.io/portfolio/
    - The site will showcase your professional portfolio with all projects and social links
 
 ### 🔍 Troubleshooting:
@@ -54,7 +54,7 @@
 
 ### 🎉 Next Steps After Deployment:
 
-1. Share your portfolio URL: `https://rubytechme.github.io/portfolio/`
+1. Share your portfolio URL: `https://lolabode.github.io/portfolio/`
 2. Update your social media profiles with the portfolio link
 3. Any future changes: just commit and push to main branch for automatic deployment
 
